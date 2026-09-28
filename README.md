@@ -57,7 +57,7 @@ MTOR follows a **multi-agent pipeline**:
 
 ## 🏗️ Architecture Diagram
 
-```mermaid
+
 flowchart TD
 
 User[👤 User Ticket] --> A[Classifier Agent]
